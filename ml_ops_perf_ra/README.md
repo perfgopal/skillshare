@@ -1,6 +1,8 @@
 # skillshare
 Materials for my skillshare class: Machine Learning for Operations and Performance Engineering: Regression Analysis
 
+To download these files, click on the file name in the Git repository and then click "Raw" and you can then "Save As"
+
 project.data.csv: Dataset you will use to build the model for your project
 project.proddata.csv:  Sample production dataset you will analyze using your model 
 
