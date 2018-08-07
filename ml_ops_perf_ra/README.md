@@ -2,7 +2,7 @@
 Materials for my skillshare class: Optimize your Systems with Machine Learning
 
 To download these files, click on the file name in the Git repository and then click "Raw" and you can then "Save As" using your browser.
-When working in RStudio, be sure to set the working directing to the directory you saved the files too.
+When working in RStudio, be sure to set the working directing to the directory you saved the files to.
 
 # FILES
 
