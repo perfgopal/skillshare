@@ -1,5 +1,5 @@
 # skillshare
-Materials for my skillshare class: Machine Learning for Operations and Performance Engineering: Regression Analysis
+Materials for my skillshare class: Optimize your Systems with Machine Learning
 
 To download these files, click on the file name in the Git repository and then click "Raw" and you can then "Save As" using your browser.
 
